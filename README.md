@@ -2,9 +2,9 @@
 Our Angular coding challenge is an web-app to create a simple product catalog. Where a user can login using *their* google account, see a list of existing products, add a new product with a picture, edit a product and remove a product.
 
 ```
-Important: Please make sure you use TypeScript, Routes, form validation and RxJs for state management. 
+Important: Please make sure you use TypeScript, Routes, form validation and some state management (simply RxJS, Akita or NgRX). 
 Check your solution into github with a readme.md file detailing instructions 
-on how to get the app up and running..
+on how to get the app up and running.
 ```
 
 # Main Features of the app
@@ -16,7 +16,7 @@ Users should be able to login/signup using their Google account.
 Users should be able to create a new product by informing:
 - Name
 - Description
-- Picture (here the user should be able to upload a picture from her computer)
+- Picture (here the user should be able to add a picture from a gallery)
 
 ### 2) Product List
 
