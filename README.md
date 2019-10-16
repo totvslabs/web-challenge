@@ -1,5 +1,5 @@
 # TOTVS Labs Coding Challenge - Web
-Our Angular coding challenge is an web-app to create a simple product catalog. Where a user can login using *their* google account, see a list of existing products, add a new product with a picture, edit a product and remove the product.
+Our Angular coding challenge is an web-app to create a simple product catalog. Where a user can login using *their* google account, see a list of existing products, add a new product with a picture, edit a product and remove a product.
 
 ```
 Important: Please make sure you use TypeScript, Routes, form validation and RxJs for state management. 
