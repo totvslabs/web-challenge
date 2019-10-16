@@ -9,7 +9,7 @@ on how to get the app up and running..
 
 # Main Features of the app
 
-### 1) Signup and Authentication
+### 1) Signup and Authentication (optional)
 Users should be able to login/signup using their Google account.
 
 ### 2) Create a product
