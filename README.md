@@ -34,7 +34,7 @@ From the list of products, users should be able to select a product they wish to
 # Evaluation Criteria
 
 * Understanding of core Javascript concepts
-* Understanding of Angular 7, TypeScript, and RxJs
+* Understanding of Angular, TypeScript, and RxJs
 * Code and component reuse/extensibility
 * Code design
 * Ability to write clear documentation
