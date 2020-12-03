@@ -1,0 +1,22 @@
+
+.header {
+  align-items: center;
+  background-color: #d4d4d4;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+
+  .header__action {
+    flex: 0 0;
+  }
+
+  .header__counter {
+    flex: 0 0;
+    white-space: nowrap;
+  }
+}
+
+.header__button {
+  white-space: nowrap;
+  border-radius: 2px;
+}

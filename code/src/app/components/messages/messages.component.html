@@ -1,0 +1,13 @@
+<div class="card" *ngFor="let message of messages">
+  <div class="card__avatar">
+    <img
+      src="http://placehold.it/100x100"
+      alt="User Name?"
+    />
+  </div>
+  <div class="card__content">
+    <p class="card__message">{{message.text}}</p>
+    <p class="card__origin">@{{message.username}} - {{message.date | date:'short'}}</p>
+    <p class="card__name">[User Name]</p>
+  </div>
+</div>
