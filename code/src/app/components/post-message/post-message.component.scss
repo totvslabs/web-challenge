@@ -1,0 +1,15 @@
+.post-message {
+  position: fixed;
+  top: 0;
+  right: -600px;
+  border: 1px solid #eee;
+  background-color: #fff;
+  width: 600px;
+  height: 100%;
+  transition: 200ms ease-out;
+
+  &.visible {
+    right: 0;
+    transition: 200ms ease-out;
+  }
+}
